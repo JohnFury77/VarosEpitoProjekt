@@ -8,6 +8,9 @@ namespace VarosEpitoProjekt
 {
     class Varos
     {
-
+        string nev;
+        int lakosok;
+        int hazak;
+        int uzletek;
     }
 }
